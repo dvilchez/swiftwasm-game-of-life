@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "LifeGame",
     products: [
-        .executable(
+        .library(
             name: "LifeGameWeb",
             targets: ["LifeGameWeb"]),
     ],

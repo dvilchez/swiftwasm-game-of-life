@@ -1,9 +1,9 @@
 dist
 node_modules
 .DS_Store
-/.build
-/Packages
-/*.xcodeproj
+.build
+Packages
+*.xcodeproj
 xcuserdata/
 .netlify
-/Bundle
+Bundle
